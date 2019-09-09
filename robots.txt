@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baopohdoh.anterragroupinc.com/sitemap.xml
